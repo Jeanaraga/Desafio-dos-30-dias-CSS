@@ -11,3 +11,7 @@
 
 
 ![gif](https://user-images.githubusercontent.com/74930052/149370056-be551083-84e3-4c59-ae54-eefa929c18b1.gif)
+
+## Dia 3 - 📋 Painel de Gerenciamento
+
+<img src="Dia 1 ao 30\Dia 3\images\Captura de tela 2022-01-21 181435.png">
